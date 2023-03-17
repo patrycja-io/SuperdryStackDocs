@@ -4,9 +4,9 @@
 
 [1. What is Strapi](#What-is-Strapi)
 
-[2.What is Disaster Recovery](#What-is-Disaster-Recovery) 
+[2. What is Disaster Recovery](#What-is-Disaster-Recovery) 
 
-[What are Data layers](#What-are-Data-Layers)  
+[3. What are Data layers](#What-are-Data-Layers)  
 
 ## What is Strapi
 Strapi is an open-source, Node.js-based, headless content management system (CMS). It provides a flexible and customizable platform for building APIs and managing content, allowing developers to create, manage, and distribute content with ease. Strapi is headless, meaning the content management backend is decoupled from the frontend, enabling developers to build applications with their preferred technologies while still managing content efficiently.
