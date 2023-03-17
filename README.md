@@ -46,7 +46,7 @@ c. Presentation layer: Manages user interactions and presentation of data to the
 
 In each context, data layers serve to organize and manage data in a way that promotes understanding, efficiency, and maintainability.
 
-## 1.What is Strapi
+## Strapi
 Strapi is an open-source, Node.js-based, headless content management system (CMS). It provides a flexible and customizable platform for building APIs and managing content, allowing developers to create, manage, and distribute content with ease. Strapi is headless, meaning the content management backend is decoupled from the frontend, enabling developers to build applications with their preferred technologies while still managing content efficiently.
 
 Here's an overview of how Strapi works:
