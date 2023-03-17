@@ -2,33 +2,9 @@
 
 # Table of Contents
 
-[What is Strapi](#1.WhatisStrapi)
- Strapi is an open-source, Node.js-based, headless content management system (CMS). It provides a flexible and customizable platform for building APIs and managing content, allowing developers to create, manage, and distribute content with ease. Strapi is headless, meaning the content management backend is decoupled from the frontend, enabling developers to build applications with their preferred technologies while still managing content efficiently.
+[1.What is Strapi](#Strapi)
 
-Here's an overview of how Strapi works:
-
-Backend:
-Strapi is built on top of Node.js and uses the Koa.js framework. It leverages a variety of database management systems, such as MongoDB, PostgreSQL, MySQL, and SQLite, to store content. The backend is responsible for handling API requests, managing the database, and handling any server-side logic.
-
-API:
-Strapi generates a RESTful or GraphQL API automatically based on the content types defined within the CMS. Developers can use these APIs to interact with the stored content, such as querying, creating, updating, or deleting data. The APIs are highly customizable, allowing developers to tailor them to their specific needs.
-
-Admin Panel:
-Strapi includes a user-friendly admin panel that allows non-technical users to manage content without writing code. The admin panel provides an interface for creating and managing content types, setting up roles and permissions, managing users, and customizing the appearance and functionality of the CMS.
-
-Content Types:
-In Strapi, content is organized into content types, which define the structure of the data. Each content type consists of fields, such as text, number, date, media, and relations, that define the attributes of the content. Content types can be created and managed via the admin panel.
-
-Plugins and Extensions:
-Strapi supports a wide range of plugins and extensions, which can be used to extend the functionality of the platform. Some popular plugins include email, authentication, and media library management. Developers can also create their own custom plugins to add specific features tailored to their project.
-
-Frontend:
-As a headless CMS, Strapi doesn't dictate the frontend technology used to build the application. Developers can choose any frontend technology, such as React, Angular, Vue.js, or even static site generators like Gatsby, to consume the generated APIs and display the content.
-
-In summary, Strapi is a powerful, flexible, and easy-to-use headless CMS that allows developers to manage and distribute content across various platforms and applications. It provides a robust backend, a user-friendly admin panel, and automatically generated APIs that can be consumed by any frontend technology.
-
-
-[What is Disaster Recovery] - Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
+[2.What is Disaster Recovery] - Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
 
 Disaster recovery typically involves a series of steps, including:
 
