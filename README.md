@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-[1.What is Strapi](#Strapi)
+[1. What is Strapi](#What-is-Strapi)
 
 [2.What is Disaster Recovery] - Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
 
