@@ -1,6 +1,7 @@
 # SuperdryStackDocs
 
-# What is Strapi - Strapi is an open-source, Node.js-based, headless content management system (CMS). It provides a flexible and customizable platform for building APIs and managing content, allowing developers to create, manage, and distribute content with ease. Strapi is headless, meaning the content management backend is decoupled from the frontend, enabling developers to build applications with their preferred technologies while still managing content efficiently.
+[What is Strapi]
+ Strapi is an open-source, Node.js-based, headless content management system (CMS). It provides a flexible and customizable platform for building APIs and managing content, allowing developers to create, manage, and distribute content with ease. Strapi is headless, meaning the content management backend is decoupled from the frontend, enabling developers to build applications with their preferred technologies while still managing content efficiently.
 
 Here's an overview of how Strapi works:
 
@@ -25,7 +26,7 @@ As a headless CMS, Strapi doesn't dictate the frontend technology used to build 
 In summary, Strapi is a powerful, flexible, and easy-to-use headless CMS that allows developers to manage and distribute content across various platforms and applications. It provides a robust backend, a user-friendly admin panel, and automatically generated APIs that can be consumed by any frontend technology.
 
 
-What is Disaster Recovery - Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
+[What is Disaster Recovery] - Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
 
 Disaster recovery typically involves a series of steps, including:
 
@@ -41,7 +42,7 @@ Implementation: When a disaster occurs, the disaster recovery plan is put into a
 
 Overall, disaster recovery is a critical part of ensuring business continuity and minimizing the impact of disruptive events.
 
-Data layers refer to the logical organization and separation of data in a way that makes it easier to manage, understand, and analyze. They are commonly used in the context of Geographic Information Systems (GIS), computer networking, and software engineering.
+[What are Data layers] Data layers refer to the logical organization and separation of data in a way that makes it easier to manage, understand, and analyze. They are commonly used in the context of Geographic Information Systems (GIS), computer networking, and software engineering.
 
 GIS: In the context of GIS, data layers represent different types of geospatial information that can be overlaid on a map. Each layer contains data about a specific theme, such as roads, buildings, land use, or elevation. By stacking multiple layers, users can create a comprehensive map that displays the relationships between different datasets. There are three main types of data layers in GIS:
 
