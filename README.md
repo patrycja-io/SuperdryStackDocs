@@ -4,21 +4,7 @@
 
 [1. What is Strapi](#What-is-Strapi)
 
-[2.What is Disaster Recovery] - Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
-
-Disaster recovery typically involves a series of steps, including:
-
-Assessment: The first step is to assess the situation and determine the extent of the damage. This involves identifying what systems and data have been affected and the impact on business operations.
-
-Planning: Once the assessment is complete, a disaster recovery plan can be developed. This plan outlines the steps that will be taken to restore operations and recover data.
-
-Backup and recovery: One of the key components of disaster recovery is having backups of critical data and systems. These backups can be used to restore data and systems to their pre-disaster state.
-
-Testing: It's important to regularly test the disaster recovery plan to ensure that it works as expected. This involves running simulations to identify any weaknesses in the plan and making improvements as needed.
-
-Implementation: When a disaster occurs, the disaster recovery plan is put into action. This involves executing the steps outlined in the plan to restore operations and recover data.
-
-Overall, disaster recovery is a critical part of ensuring business continuity and minimizing the impact of disruptive events.
+[2.What is Disaster Recovery] (#What-is-Disaster-Recovery) 
 
 [What are Data layers] Data layers refer to the logical organization and separation of data in a way that makes it easier to manage, understand, and analyze. They are commonly used in the context of Geographic Information Systems (GIS), computer networking, and software engineering.
 
@@ -70,3 +56,21 @@ Frontend:
 As a headless CMS, Strapi doesn't dictate the frontend technology used to build the application. Developers can choose any frontend technology, such as React, Angular, Vue.js, or even static site generators like Gatsby, to consume the generated APIs and display the content.
 
 In summary, Strapi is a powerful, flexible, and easy-to-use headless CMS that allows developers to manage and distribute content across various platforms and applications. It provides a robust backend, a user-friendly admin panel, and automatically generated APIs that can be consumed by any frontend technology.
+
+## 2. What is Disaster Recovery
+
+Disaster recovery is the process of restoring normal operations after a disruptive event has occurred. This event could be a natural disaster, such as a hurricane or earthquake, or it could be a man-made event, such as a cyber attack or power outage.
+
+Disaster recovery typically involves a series of steps, including:
+
+Assessment: The first step is to assess the situation and determine the extent of the damage. This involves identifying what systems and data have been affected and the impact on business operations.
+
+Planning: Once the assessment is complete, a disaster recovery plan can be developed. This plan outlines the steps that will be taken to restore operations and recover data.
+
+Backup and recovery: One of the key components of disaster recovery is having backups of critical data and systems. These backups can be used to restore data and systems to their pre-disaster state.
+
+Testing: It's important to regularly test the disaster recovery plan to ensure that it works as expected. This involves running simulations to identify any weaknesses in the plan and making improvements as needed.
+
+Implementation: When a disaster occurs, the disaster recovery plan is put into action. This involves executing the steps outlined in the plan to restore operations and recover data.
+
+Overall, disaster recovery is a critical part of ensuring business continuity and minimizing the impact of disruptive events.
