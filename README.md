@@ -4,33 +4,9 @@
 
 [1. What is Strapi](#What-is-Strapi)
 
-[2.What is Disaster Recovery] (#What-is-Disaster-Recovery) 
+[2.What is Disaster Recovery](#What-is-Disaster-Recovery) 
 
-[What are Data layers] Data layers refer to the logical organization and separation of data in a way that makes it easier to manage, understand, and analyze. They are commonly used in the context of Geographic Information Systems (GIS), computer networking, and software engineering.
-
-GIS: In the context of GIS, data layers represent different types of geospatial information that can be overlaid on a map. Each layer contains data about a specific theme, such as roads, buildings, land use, or elevation. By stacking multiple layers, users can create a comprehensive map that displays the relationships between different datasets. There are three main types of data layers in GIS:
-
-a. Vector layers: Represent discrete geographic features like points, lines, and polygons (e.g., buildings, roads, and land parcels).
-b. Raster layers: Represent continuous data in a grid format, where each cell has a value (e.g., digital elevation models, satellite imagery, and land cover).
-c. Attribute layers: Contain non-spatial data linked to spatial features, like demographics, land values, or environmental data.
-
-Computer Networking: In the context of computer networking, data layers refer to the layers defined in the OSI (Open Systems Interconnection) model, which is a conceptual framework for understanding how data is transmitted and received over a network. The OSI model has seven layers, each with its specific purpose:
-
-a. Physical layer (Layer 1)
-b. Data link layer (Layer 2)
-c. Network layer (Layer 3)
-d. Transport layer (Layer 4)
-e. Session layer (Layer 5)
-f. Presentation layer (Layer 6)
-g. Application layer (Layer 7)
-
-Software Engineering: In the context of software engineering, data layers refer to the organization of data within a software application or system. By separating data into different layers, developers can create modular and maintainable systems. A typical three-tier architecture consists of:
-
-a. Data layer (also called the persistence layer): Manages data storage and retrieval, typically involving databases or other storage mechanisms.
-b. Business logic layer: Contains the core processing and decision-making functionality of the application.
-c. Presentation layer: Manages user interactions and presentation of data to the end-user, typically through a graphical user interface (GUI) or a web interface.
-
-In each context, data layers serve to organize and manage data in a way that promotes understanding, efficiency, and maintainability.
+[What are Data layers](#What-are-Data-Layers)  
 
 ## What is Strapi
 Strapi is an open-source, Node.js-based, headless content management system (CMS). It provides a flexible and customizable platform for building APIs and managing content, allowing developers to create, manage, and distribute content with ease. Strapi is headless, meaning the content management backend is decoupled from the frontend, enabling developers to build applications with their preferred technologies while still managing content efficiently.
@@ -74,3 +50,32 @@ Testing: It's important to regularly test the disaster recovery plan to ensure t
 Implementation: When a disaster occurs, the disaster recovery plan is put into action. This involves executing the steps outlined in the plan to restore operations and recover data.
 
 Overall, disaster recovery is a critical part of ensuring business continuity and minimizing the impact of disruptive events.
+
+## 3. What are Data Layers
+
+Data layers refer to the logical organization and separation of data in a way that makes it easier to manage, understand, and analyze. They are commonly used in the context of Geographic Information Systems (GIS), computer networking, and software engineering.
+
+GIS: In the context of GIS, data layers represent different types of geospatial information that can be overlaid on a map. Each layer contains data about a specific theme, such as roads, buildings, land use, or elevation. By stacking multiple layers, users can create a comprehensive map that displays the relationships between different datasets. There are three main types of data layers in GIS:
+
+a. Vector layers: Represent discrete geographic features like points, lines, and polygons (e.g., buildings, roads, and land parcels).
+b. Raster layers: Represent continuous data in a grid format, where each cell has a value (e.g., digital elevation models, satellite imagery, and land cover).
+c. Attribute layers: Contain non-spatial data linked to spatial features, like demographics, land values, or environmental data.
+
+Computer Networking: In the context of computer networking, data layers refer to the layers defined in the OSI (Open Systems Interconnection) model, which is a conceptual framework for understanding how data is transmitted and received over a network. The OSI model has seven layers, each with its specific purpose:
+
+a. Physical layer (Layer 1)
+b. Data link layer (Layer 2)
+c. Network layer (Layer 3)
+d. Transport layer (Layer 4)
+e. Session layer (Layer 5)
+f. Presentation layer (Layer 6)
+g. Application layer (Layer 7)
+
+Software Engineering: In the context of software engineering, data layers refer to the organization of data within a software application or system. By separating data into different layers, developers can create modular and maintainable systems. A typical three-tier architecture consists of:
+
+a. Data layer (also called the persistence layer): Manages data storage and retrieval, typically involving databases or other storage mechanisms.
+b. Business logic layer: Contains the core processing and decision-making functionality of the application.
+c. Presentation layer: Manages user interactions and presentation of data to the end-user, typically through a graphical user interface (GUI) or a web interface.
+
+In each context, data layers serve to organize and manage data in a way that promotes understanding, efficiency, and maintainability.
+
